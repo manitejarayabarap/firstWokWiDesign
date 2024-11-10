@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is a simple counter circuit that increments and displays numbers on a 7-segment display. A “Step” button advances the count, and a “Reset” button resets it to zero. Logic gates control the segments based on the counter’s output.
 
 ## How to test
 
-Explain how to use your project
+Press the “Step” button to increment the display and “Reset” to reset the count. Optionally, connect a clock for automatic counting.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-Segment Display
+Step and Reset buttons
+Clock source
